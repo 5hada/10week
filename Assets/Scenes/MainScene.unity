@@ -3917,6 +3917,21 @@ PrefabInstance:
       propertyPath: gameEnding
       value: 
       objectReference: {fileID: 497105176}
+    - target: {fileID: 4370929153279335557, guid: 2dfdd1909b97738458b9b65ef30ed39a,
+        type: 3}
+      propertyPath: waypoints.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370929153279335557, guid: 2dfdd1909b97738458b9b65ef30ed39a,
+        type: 3}
+      propertyPath: waypoints.Array.data[0]
+      value: 
+      objectReference: {fileID: 1076912126}
+    - target: {fileID: 4370929153279335557, guid: 2dfdd1909b97738458b9b65ef30ed39a,
+        type: 3}
+      propertyPath: waypoints.Array.data[1]
+      value: 
+      objectReference: {fileID: 1420299323}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2dfdd1909b97738458b9b65ef30ed39a, type: 3}
 --- !u!4 &865716010 stripped
